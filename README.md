@@ -3,6 +3,7 @@
 ## Tools
 * MS Excel
 * Python 3
+* Machine Learning
 ## Content
 * ATM Management System.ipynb :
 
